@@ -9,3 +9,10 @@ git status
 
 # agregar archivo
 git add
+
+# confirmar cambios
+git commit -m "backup"
+
+#caragar cambios al repo
+git push origin main
+
